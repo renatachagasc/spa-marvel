@@ -9,7 +9,9 @@
   --color-secundaria: rgba(33, 33, 33, 0.6);
   --color-white: #ffffff;
   --color-gray: #999999;
+  --color-orange: #F43735;
   --background-dark: #202020;
+  --border: #C6C6C6;
 }
 
 body {
